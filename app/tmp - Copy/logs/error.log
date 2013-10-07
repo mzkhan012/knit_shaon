@@ -1,0 +1,1398 @@
+2013-10-03 04:21:01 Error: [MissingHelperException] Helper class barcodeHelper could not be found.
+Exception Attributes: array (
+  'class' => 'barcodeHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('barcode')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('barcode')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Jobcards\index.ctp(7): View->__get('barcode')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 04:24:05 Error: [MissingHelperException] Helper class barcodeHelper could not be found.
+Exception Attributes: array (
+  'class' => 'barcodeHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('barcode')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('barcode')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Jobcards\index.ctp(7): View->__get('barcode')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 04:28:44 Error: [MissingHelperException] Helper class barcodeHelper could not be found.
+Exception Attributes: array (
+  'class' => 'barcodeHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('barcode')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('barcode')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Jobcards\index.ctp(7): View->__get('barcode')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 06:26:23 Error: [MissingPluginException] Plugin Search could not be found.
+Exception Attributes: array (
+  'plugin' => 'Search',
+)
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(366): CakePlugin::path('Search')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(227): App::pluginPath('Search')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(544): App::path('Controller/Comp...', 'Search')
+#3 [internal function]: App::load('PrgComponent')
+#4 [internal function]: spl_autoload_call('PrgComponent')
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(100): class_exists('PrgComponent')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Search.Prg', Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(635): ComponentCollection->init(Object(JobcardsController))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(183): Controller->constructClasses()
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#10 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-03 06:29:43 Error: [MissingPluginException] Plugin Search could not be found.
+Exception Attributes: array (
+  'plugin' => 'Search',
+)
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(366): CakePlugin::path('Search')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(227): App::pluginPath('Search')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(544): App::path('Controller/Comp...', 'Search')
+#3 [internal function]: App::load('PrgComponent')
+#4 [internal function]: spl_autoload_call('PrgComponent')
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(100): class_exists('PrgComponent')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Search.Prg', Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(635): ComponentCollection->init(Object(JobcardsController))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(183): Controller->constructClasses()
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#10 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-03 06:29:50 Error: [MissingPluginException] Plugin Search could not be found.
+Exception Attributes: array (
+  'plugin' => 'Search',
+)
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(366): CakePlugin::path('Search')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(227): App::pluginPath('Search')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(544): App::path('Controller/Comp...', 'Search')
+#3 [internal function]: App::load('PrgComponent')
+#4 [internal function]: spl_autoload_call('PrgComponent')
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(100): class_exists('PrgComponent')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Search.Prg', Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(635): ComponentCollection->init(Object(JobcardsController))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(183): Controller->constructClasses()
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#10 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-03 06:30:10 Error: [MissingPluginException] Plugin Search could not be found.
+Exception Attributes: array (
+  'plugin' => 'Search',
+)
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(366): CakePlugin::path('Search')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(227): App::pluginPath('Search')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(544): App::path('Controller/Comp...', 'Search')
+#3 [internal function]: App::load('PrgComponent')
+#4 [internal function]: spl_autoload_call('PrgComponent')
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(100): class_exists('PrgComponent')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Search.Prg', Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(635): ComponentCollection->init(Object(JobcardsController))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(183): Controller->constructClasses()
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#10 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-03 06:30:13 Error: [MissingPluginException] Plugin Search could not be found.
+Exception Attributes: array (
+  'plugin' => 'Search',
+)
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(366): CakePlugin::path('Search')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(227): App::pluginPath('Search')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(544): App::path('Controller/Comp...', 'Search')
+#3 [internal function]: App::load('PrgComponent')
+#4 [internal function]: spl_autoload_call('PrgComponent')
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(100): class_exists('PrgComponent')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Search.Prg', Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(635): ComponentCollection->init(Object(JobcardsController))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(183): Controller->constructClasses()
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#10 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-03 06:31:39 Error: [MissingPluginException] Plugin Search could not be found.
+Exception Attributes: array (
+  'plugin' => 'Search',
+)
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(366): CakePlugin::path('Search')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(227): App::pluginPath('Search')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(544): App::path('Controller/Comp...', 'Search')
+#3 [internal function]: App::load('PrgComponent')
+#4 [internal function]: spl_autoload_call('PrgComponent')
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(100): class_exists('PrgComponent')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Search.Prg', Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(635): ComponentCollection->init(Object(JobcardsController))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(183): Controller->constructClasses()
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#10 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-03 06:33:25 Error: Fatal Error (64): Cannot redeclare Jobcard::$belongsTo in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Model\Jobcard.php, line 75]
+2013-10-03 06:33:25 Error: [FatalErrorException] Cannot redeclare Jobcard::$belongsTo
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 06:34:10 Error: Fatal Error (64): Cannot redeclare Jobcard::$belongsTo in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Model\Jobcard.php, line 75]
+2013-10-03 06:34:10 Error: [FatalErrorException] Cannot redeclare Jobcard::$belongsTo
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 06:34:14 Error: Fatal Error (64): Cannot redeclare Jobcard::$belongsTo in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Model\Jobcard.php, line 75]
+2013-10-03 06:34:14 Error: [FatalErrorException] Cannot redeclare Jobcard::$belongsTo
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 06:35:04 Error: Fatal Error (64): Cannot redeclare Jobcard::$belongsTo in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Model\Jobcard.php, line 75]
+2013-10-03 06:35:04 Error: [FatalErrorException] Cannot redeclare Jobcard::$belongsTo
+Request URL: /cakephp_all/knit_shaon/jobcards
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 75, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 06:37:04 Error: Fatal Error (1): Call to a member function parseCriteria() on a non-object in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\JobcardsController.php, line 120]
+2013-10-03 06:37:04 Error: [FatalErrorException] Call to a member function parseCriteria() on a non-object
+Request URL: /cakephp_all/knit_shaon/jobcards/find/barcode:524cf469d905d/enhanced_search:
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 120)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 120, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'E:\xampp\htdocs...', 120, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 06:38:01 Error: [MissingViewException] View file "E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Jobcards\find.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'E:\\xampp\\htdocs\\cakephp_all\\knit_shaon\\app\\View\\Jobcards\\find.ctp',
+)
+Request URL: /cakephp_all/knit_shaon/jobcards/find/barcode:524cf469d905d/enhanced_search:
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-03 06:38:58 Error: [MissingViewException] View file "E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Jobcards\find.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'E:\\xampp\\htdocs\\cakephp_all\\knit_shaon\\app\\View\\Jobcards\\find.ctp',
+)
+Request URL: /cakephp_all/knit_shaon/jobcards/find/barcode:524cf469d905d/enhanced_search:
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-03 06:39:43 Error: [MissingViewException] View file "E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Jobcards\find.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'E:\\xampp\\htdocs\\cakephp_all\\knit_shaon\\app\\View\\Jobcards\\find.ctp',
+)
+Request URL: /cakephp_all/knit_shaon/jobcards/find/barcode:524cf469d905d/enhanced_search:
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-03 06:39:47 Error: [MissingViewException] View file "E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Jobcards\find.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'E:\\xampp\\htdocs\\cakephp_all\\knit_shaon\\app\\View\\Jobcards\\find.ctp',
+)
+Request URL: /cakephp_all/knit_shaon/jobcards/find/barcode:524cf469d905d/enhanced_search:
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-03 06:46:50 Error: Fatal Error (1): Call to a member function paginate() on a non-object in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\JobcardsController.php, line 121]
+2013-10-03 06:46:50 Error: [FatalErrorException] Call to a member function paginate() on a non-object
+Request URL: /cakephp_all/knit_shaon/jobcards/find/barcode:524ceb16b6742/enhanced_search:
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 121)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 121, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'E:\xampp\htdocs...', 121, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 06:48:08 Error: [MissingComponentException] Component class paginateComponent could not be found.
+Exception Attributes: array (
+  'class' => 'paginateComponent',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/jobcards/find/barcode:524ceb16b6742/enhanced_search:
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('paginate', Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(635): ComponentCollection->init(Object(JobcardsController))
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(183): Controller->constructClasses()
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-03 06:48:49 Error: Fatal Error (1): Call to a member function paginate() on a non-object in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\JobcardsController.php, line 122]
+2013-10-03 06:48:49 Error: [FatalErrorException] Call to a member function paginate() on a non-object
+Request URL: /cakephp_all/knit_shaon/jobcards/find/barcode:524ceb16b6742/enhanced_search:
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 122)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 122, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'E:\xampp\htdocs...', 122, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 06:49:16 Error: Fatal Error (1): Call to a member function paginate() on a non-object in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\JobcardsController.php, line 122]
+2013-10-03 06:49:16 Error: [FatalErrorException] Call to a member function paginate() on a non-object
+Request URL: /cakephp_all/knit_shaon/jobcards/find/barcode:524ceb16b6742/enhanced_search:
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 122)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 122, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'E:\xampp\htdocs...', 122, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 06:49:20 Error: Fatal Error (1): Call to a member function paginate() on a non-object in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\JobcardsController.php, line 122]
+2013-10-03 06:49:20 Error: [FatalErrorException] Call to a member function paginate() on a non-object
+Request URL: /cakephp_all/knit_shaon/jobcards/find/barcode:524ceb16b6742/enhanced_search:
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 122)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 122, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'E:\xampp\htdocs...', 122, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 06:57:42 Error: Fatal Error (1): Call to a member function paginate() on a non-object in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\JobcardsController.php, line 122]
+2013-10-03 06:57:42 Error: [FatalErrorException] Call to a member function paginate() on a non-object
+Request URL: /cakephp_all/knit_shaon/jobcards/find/barcode:524cf469d905d/enhanced_search:
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 122)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'E:\xampp\htdocs...', 122, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'E:\xampp\htdocs...', 122, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:23:17 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'islabeled' cannot be null
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `kn...', Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(1008): DboSource->execute('INSERT INTO `kn...')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Model.php(1744): DboSource->create(Object(Roll), Array, Array)
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php(44): Model->save(Array)
+#5 [internal function]: RollsController->add()
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(RollsController), Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RollsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:23:45 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'islabeled' cannot be null
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `kn...', Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(1008): DboSource->execute('INSERT INTO `kn...')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Model.php(1744): DboSource->create(Object(Roll), Array, Array)
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php(44): Model->save(Array)
+#5 [internal function]: RollsController->add()
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(RollsController), Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RollsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:24:42 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'islabeled' cannot be null
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `kn...', Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(1008): DboSource->execute('INSERT INTO `kn...')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Model.php(1744): DboSource->create(Object(Roll), Array, Array)
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php(44): Model->save(Array)
+#5 [internal function]: RollsController->add()
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(RollsController), Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RollsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:25:16 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'greystorestatus_id' cannot be null
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `kn...', Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(1008): DboSource->execute('INSERT INTO `kn...')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Model.php(1744): DboSource->create(Object(Roll), Array, Array)
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php(44): Model->save(Array)
+#5 [internal function]: RollsController->add()
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(RollsController), Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RollsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:25:54 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'dyingstatus_id' cannot be null
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `kn...', Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(1008): DboSource->execute('INSERT INTO `kn...')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Model.php(1744): DboSource->create(Object(Roll), Array, Array)
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php(44): Model->save(Array)
+#5 [internal function]: RollsController->add()
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(RollsController), Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RollsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:26:09 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'finishingstatus_id' cannot be null
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `kn...', Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(1008): DboSource->execute('INSERT INTO `kn...')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Model.php(1744): DboSource->create(Object(Roll), Array, Array)
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php(44): Model->save(Array)
+#5 [internal function]: RollsController->add()
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(RollsController), Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RollsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:26:24 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'greystatus_id' cannot be null
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `kn...', Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(1008): DboSource->execute('INSERT INTO `kn...')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Model.php(1744): DboSource->create(Object(Roll), Array, Array)
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php(44): Model->save(Array)
+#5 [internal function]: RollsController->add()
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(RollsController), Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RollsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:26:39 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'orderstatus_id' cannot be null
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `kn...', Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(1008): DboSource->execute('INSERT INTO `kn...')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Model.php(1744): DboSource->create(Object(Roll), Array, Array)
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php(44): Model->save(Array)
+#5 [internal function]: RollsController->add()
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(RollsController), Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RollsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:26:53 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'mainstorestatus_id' cannot be null
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `kn...', Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(1008): DboSource->execute('INSERT INTO `kn...')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Model.php(1744): DboSource->create(Object(Roll), Array, Array)
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php(44): Model->save(Array)
+#5 [internal function]: RollsController->add()
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(RollsController), Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RollsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:27:06 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'jobcard_id' cannot be null
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `kn...', Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(1008): DboSource->execute('INSERT INTO `kn...')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Model.php(1744): DboSource->create(Object(Roll), Array, Array)
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php(44): Model->save(Array)
+#5 [internal function]: RollsController->add()
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(RollsController), Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RollsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:35:16 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 127]
+2013-10-03 07:35:16 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 127)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 127, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 127, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:35:56 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 127]
+2013-10-03 07:35:56 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 127)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 127, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 127, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:36:01 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 127]
+2013-10-03 07:36:01 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 127)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 127, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 127, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:36:41 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 128]
+2013-10-03 07:36:41 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:36:46 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 128]
+2013-10-03 07:36:46 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:37:07 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 128]
+2013-10-03 07:37:07 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:37:11 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 128]
+2013-10-03 07:37:11 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:37:41 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 128]
+2013-10-03 07:37:41 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:39:09 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 128]
+2013-10-03 07:39:09 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:39:15 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 128]
+2013-10-03 07:39:15 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:41:48 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 128]
+2013-10-03 07:41:48 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:41:49 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 128]
+2013-10-03 07:41:49 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:42:42 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 128]
+2013-10-03 07:42:42 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 07:43:00 Error: [MissingActionException] Action JobcardsController::rolls() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobcardsController',
+  'action' => 'rolls',
+)
+Request URL: /cakephp_all/knit_shaon/jobcards/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-03 07:43:25 Error: Fatal Error (64): Cannot redeclare RollsController::$presetVars in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\RollsController.php, line 128]
+2013-10-03 07:43:25 Error: [FatalErrorException] Cannot redeclare RollsController::$presetVars
+Request URL: /cakephp_all/knit_shaon/rolls
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'E:\xampp\htdocs...', 128, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 06:11:40 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:17:48 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:28:16 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:28:17 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:28:46 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:34:05 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 13:35:37 Error: [MissingControllerException] Controller class InternalorderController could not be found.
+Exception Attributes: array (
+  'class' => 'InternalorderController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp_all/knit_shaon/internalorder/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-03 07:35:45 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:36:53 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:36:54 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:36:56 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 07:42:06 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:18:12 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:20:29 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:22:13 Error: [MissingHelperException] Helper class RequestHandlerHelper could not be found.
+Exception Attributes: array (
+  'class' => 'RequestHandlerHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(884): HelperCollection->load('RequestHandler', Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(464): View->loadHelpers()
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2013-10-03 08:24:42 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:26:44 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:29:02 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 14:29:09 Error: [MissingControllerException] Controller class InternalorderController could not be found.
+Exception Attributes: array (
+  'class' => 'InternalorderController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp_all/knit_shaon/internalorder
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-03 08:29:23 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:31:31 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:31:32 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:31:56 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:34:24 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:35:29 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(10): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:39:26 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:39:29 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:40:00 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:46:03 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:46:50 Error: [MissingActionException] Action InternalordersController::place() could not be found.
+Exception Attributes: array (
+  'controller' => 'InternalordersController',
+  'action' => 'place',
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-03 08:50:12 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:53:30 Error: [MissingHelperException] Helper class createHelper could not be found.
+Exception Attributes: array (
+  'class' => 'createHelper',
+  'plugin' => false,
+)
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('create')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(835): HelperCollection->__isset('create')
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp(9): View->__get('create')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(947): include('E:\xampp\htdocs...')
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(909): View->_evaluate('E:\xampp\htdocs...', Array)
+#5 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\View\View.php(471): View->_render('E:\xampp\htdocs...')
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(InternalordersController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-03 08:55:45 Error: Fatal Error (1): Call to undefined function echo__() in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp, line 10]
+2013-10-03 08:55:45 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 08:57:23 Error: Fatal Error (1): Call to undefined function echo__() in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp, line 10]
+2013-10-03 08:57:23 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 08:57:24 Error: Fatal Error (1): Call to undefined function echo__() in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp, line 10]
+2013-10-03 08:57:24 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 08:57:34 Error: Fatal Error (1): Call to undefined function echo__() in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp, line 10]
+2013-10-03 08:57:34 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 08:58:04 Error: Fatal Error (1): Call to undefined function echo__() in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp, line 10]
+2013-10-03 08:58:04 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 08:58:11 Error: Fatal Error (1): Call to undefined function echo__() in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp, line 10]
+2013-10-03 08:58:12 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-03 08:59:19 Error: Fatal Error (1): Call to undefined function echo__() in [E:\xampp\htdocs\cakephp_all\knit_shaon\app\View\Internalorders\place.ctp, line 10]
+2013-10-03 08:59:19 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /cakephp_all/knit_shaon/internalorders/place
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'E:\xampp\htdocs...', 10, Array)
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-04 01:10:03 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'createdby' cannot be null
+Request URL: /cakephp_all/knit_shaon/jobcards/add
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `kn...', Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Datasource\DboSource.php(1008): DboSource->execute('INSERT INTO `kn...')
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Model\Model.php(1744): DboSource->create(Object(Jobcard), Array, Array)
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\Controller\JobcardsController.php(47): Model->save(Array)
+#5 [internal function]: JobcardsController->add()
+#6 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#7 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#9 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-10-04 02:07:58 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/14
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('14')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 02:15:26 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/14
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('14')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 02:16:07 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/14
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('14')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 02:16:13 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/14
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('14')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 02:18:47 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/14
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('14')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 02:18:52 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/10
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('10')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 02:19:20 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/14
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('14')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 02:20:26 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/13
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('13')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 02:27:15 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/14
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('14')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 02:28:20 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/14
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('14')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 02:28:31 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/13
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('13')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 02:29:15 Error: [NotFoundException] Invalid jobcard
+Request URL: /cakephp_all/knit_shaon/jobcards/detail/14
+Stack Trace:
+#0 [internal function]: JobcardsController->detail('14')
+#1 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(JobcardsController), Array)
+#2 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 E:\xampp\htdocs\cakephp_all\knit_shaon\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(JobcardsController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-04 13:24:07 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp_all/knit_shaon/view
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-04 13:25:27 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp_all/knit_shaon/index
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-04 13:35:09 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp_all/knit_shaon/index
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-04 13:47:20 Error: [MissingControllerException] Controller class FinishingsController could not be found.
+Exception Attributes: array (
+  'class' => 'FinishingsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp_all/knit_shaon/finishings
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-04 14:19:51 Error: [MissingControllerException] Controller class MainStoreStatusesController could not be found.
+Exception Attributes: array (
+  'class' => 'MainStoreStatusesController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp_all/knit_shaon/MainStoreStatuses
+Stack Trace:
+#0 E:\xampp\htdocs\cakephp_all\knit_shaon\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

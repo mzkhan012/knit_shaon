@@ -1,0 +1,5 @@
+msgid "New Internalorder"
+msgstr "New Buyer order"
+
+msgid "List Internalorders"
+msgstr "List Buyer order"
